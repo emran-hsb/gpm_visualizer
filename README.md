@@ -1,6 +1,8 @@
 # gpm_visualizer
 Visualizing and analyzing the precipitation data downloaded from NASA GPM data files.
 
+https://github.com/emran-hsb/gpm_visualizer
+
 This program is meant for visualizing and analyzing the precipitation data downloaded from NASA GPM data files.
 The expected functionalies are:
   * Downloading precipitation data (early, late, and final runs) to local drive.
